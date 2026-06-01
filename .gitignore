@@ -10,11 +10,6 @@ venv/
 .venv/
 env/
 
-# Large model files
-*.pt
-*.pth
-*.ckpt
-
 # OS / editor
 .DS_Store
 .vscode/
