@@ -1,0 +1,20 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large model files
+*.pt
+*.pth
+*.ckpt
+
+# OS / editor
+.DS_Store
+.vscode/
